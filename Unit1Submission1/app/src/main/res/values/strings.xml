@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit 1 Submission 1</string>
+    <string name="android_studio_setup">Android Studio Setup</string>
+    <string name="_2_download_java_runtime">2. Download Java Runtime</string>
+    <string name="_1_download_the_java_development_kit">1. Download the java development kit</string>
+    <string name="_3_download_android_studio">3. Download Android Studio</string>
+    <string name="setting_up_android_studio">Setting Up Android Studio</string>
+    <string name="setup">Setup</string>
+    <string name="create">Create</string>
+    <string name="compile">Compile</string>
+    <string name="create_a_project">Create_a_project</string>
+    <string name="open_android_studio">Open android studio</string>
+    <string name="press_create_new_project">Press create new project</string>
+    <string name="select_project_template">Select project template</string>
+    <string name="compliing_the_project">Compliing the project</string>
+    <string name="press_ctrl_f9_to_build">Press CTRL-F9 to build</string>
+    <string name="press_shift_f10_to_run">Press shift-F10 to run</string>
+</resources>

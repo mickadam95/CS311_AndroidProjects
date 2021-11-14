@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit2</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="customerid">CustomerID</string>
+    <string name="submit">Submit</string>
+</resources>
