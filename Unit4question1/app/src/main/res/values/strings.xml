@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit 4 question 1</string>
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="select_an_option">Select an option</string>
+    <string name="add_strings">Add Strings</string>
+    <string name="compare_strings">Compare Strings</string>
+    <string name="count_chars">Count Chars</string>
+</resources>
